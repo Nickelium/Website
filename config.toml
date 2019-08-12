@@ -24,7 +24,7 @@ enableRobotsTXT = true
 author = "Tri Tran"
 intro = "Game Programmer <br/> Graphics Programer | Engine Programmer"
 description = "Upcoming college graduate looking for an <b>Internship</b> starting at February 2020"
-authorimage = "avatar.png"
+authorimage = "user.png"
 dateformat = "Jan 2, 2006"
 
 ## Site Meta Settings
