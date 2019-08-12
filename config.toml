@@ -1,3 +1,63 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+## Basic Configuration
+
+baseurl = "https://nickelium.github.io/" 
+builddrafts = false
+canonifyurls = false
+languageCode = "en-US"
+
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+
+author = "Tri Tran"
+title = "Tri Tran"
+
+theme = "hugo-goa"
+
+## Hugo Built-in Features
+#disqusShortname = "https-shenoybr-github-io-hugo-goa-demo" # Comment out to disable Disqus.
+googleAnalytics = "XYZ"
+enableRobotsTXT = true
+
+## Site Settings
+[params]
+author = "Tri Tran"
+intro = "Game Programmer <br/> Graphics Programer | Engine Programmer"
+description = "Upcoming college graduate looking for an <b>Internship</b> starting at February 2020"
+authorimage = "avatar.png"
+dateformat = "Jan 2, 2006"
+
+## Site Meta Settings
+[params.meta]
+description = "Blog Programming Rendering"
+keywords = "blog,portfolio,programming,rendering,developer,c++"
+
+## Social Accounts
+[params.social]
+github = "Nickelium"
+linkedin = "mtrantr"
+twitter = "<username>"
+email = "trantr.be@gmail.com"
+
+## Extras
+[params.extra]
+copyright = "© 2019. Tri Tran. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)." 
+poweredby = true
+hightlightjs = true
+
+## Main Menu
+[[menu.main]]
+    name = "About"
+    identifier = "about"
+    weight = 100
+    url = "about/"
+[[menu.main]]
+    name = "Portfolio"
+    identifier = "portfolio"
+    weight = 200
+    url = "portfolio/"
+[[menu.main]]
+    name = "Blog"
+    weight = 300
+    identifier = "blog"
+    url = "post/"
