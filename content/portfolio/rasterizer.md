@@ -2,14 +2,71 @@
 title = "Rasterizer"
 date = 2019-07-12T12:32:46+02:00
 draft = false
-description = "Realtime CPU Rasterizer/Renderer"
+description = "A realtime software Rasterizer that emulates typical hardware graphics pipeline. It contains the following graphics features but it is not exhaustive: backface culling, depth buffer, perspective correct interpolation, extendable vertex and fragment shaders and of course Rasterization ...  "
 tags = ["rendering", "graphics", "software-rendering", "c/c++"]
 image = "rasterizer_thumbnail.png"
 +++
 
-This is a simple a realtime software renderer that emulates the OpenGL graphics pipeline. 
-It utilizes few dependencies and is built mostly from scratch and written in C++98/C++11. 
-The goal of this project is to build a renderer without the help of any Graphics API such as DirectX, OpenGL or Vulkan. 
-Therefore it doesn't utilize any hardware acceleration provided by the GPU.
+This is a simple realtime software renderer that emulates the typical graphics pipeline.
+Therefore it doesn't use the help of any Graphics API such as D3D11/12, OpenGL or Vulkan.
+The software is built mostly from 'scratch', written in standard C++98/C++11.
+To be more precise, the renderer tries to mimick the OpenGL pipeline by providing it's implementation instead of relying on the GPU.
 
+The goal of this project is to learn and uncover what's behind the blackbox of a Graphics API that is often untold (to me at least) 
+and taken as it is. Also to learn how one might write a renderer back in the day. Although, raycasting or so was probably more appropriate than this renderer. 
+Initially, I planned to implement only a few trivial graphics features but it somehow grew more than expected.
+<style>
+ul
+{
+	columns: 2;
+    -webkit-columns: 2;
+    -moz-columns: 2;
+}
+</style>
+
+<br/>
+<ul style="list-style-type:none;">
+<li>Features:</li>
+<li>Back End Features:</li>
+</ul>
+
+<ul>
+<li>Wireframe Rendering</li>
+<li>Flat Shading</li>
+<li>Gouraud Shading</li>
+<li>Phong Shading</li>
+<li>Diffuse Texture Mapping</li>
+<li>Scene Switching</li>
+<li>Rendermode Switching</li>
+<li>OBJ file Parser</li>
+<li>JSON file Scene Sescription</li>
+
+<li>Backface Culling</li>
+<li>Depth Buffering</li>
+<li>Perspective Correct Interpolation</li>
+<li>Extendable Vertex and Fragment Shaders</li>
+<li>Linear Algebra Library</li>
+<li>Rasterizer</li>
+<li>Line Rendering</li>
+</ul>
+
+<br/>
+I'm actually glad I finish this project because it allowed me to gain a deeper and richer understanding of hardware rendering 
+and as result made me appreciate it more.
+
+
+If you're interested to know more, you can the find source code on this github <a href="https://github.com/Nickelium/Rasterizer">[link]</a>.
+     
+<br/>
+Render Samples
+
+<img src="/img/rasterizer/16.png" width="100%">	 
+
+<img src="/img/rasterizer/28.png" width="100%">	 
+
+<img src="/img/rasterizer/23.png" width="100%">	 
+
+
+
+https://www.youtube.com/watch?v=7sPPdtgjI90
 

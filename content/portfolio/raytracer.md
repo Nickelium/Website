@@ -1,8 +1,8 @@
 +++
-title =  "RayTracer"
+title =  "IRadiance - RayTracer"
 date = 2019-08-12T21:16:07+02:00
 draft = false
-description = "Realtime CPU Rasterizer/Renderer"
+description = "IRadiance Engine is a software Raytracer that can render a varierty of scenes. The software also allows to visualize the progress of an image being raytraced and not only the final result. This is only a work in progress of the project."
 tags = ["rendering", "graphics", "software-rendering", "c/c++"]
 image = "raytracer_thumbnail.jpg"
 +++
