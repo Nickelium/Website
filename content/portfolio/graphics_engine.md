@@ -4,10 +4,10 @@ date = 2019-08-05T21:16:07+02:00
 draft = false
 description = "Radiance Engine is a graphics engine, build with intent to support multiple graphics API. In it current state, it only supports OpenGL. This is only a work in progress of the project."
 tags = ["rendering", "graphics", "hardware-rendering", "c/c++", "graphics api", "opengl", "d3d11", "game engine"]
-image = "graphicsengine_thumb.png"
+image = "graphics_engine/graphicsengine_thumb.png"
 +++
 Radiance Engine is a graphics engine built currently on top of OpenGL but with the intent to eventually support more APIs.
-This project is still in development, more features are about to come!
+This project is still <b>in development</b>, more features are about to come!
 
 Initially this project was mostly intended as a practical exercise to reinforce the things I've learned on LearnOpenGL. 
 The goal has evolved into an API agnostic renderer with a clear software architecture. 
@@ -70,6 +70,6 @@ ul
 
 If you're interested to know more, you can the find source code on this github <a href="https://github.com/Nickelium/Radiance">[link]</a>.
 
-Render Samples
-<img src="/img/rasterizer/16.png" width="100%">	 
+<br/>
+<img src="/img/graphics_engine/graphicsengine_thumb.png" width="100%">	 
 

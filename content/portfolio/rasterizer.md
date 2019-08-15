@@ -4,9 +4,17 @@ date = 2019-07-12T12:32:46+02:00
 draft = false
 description = "A realtime software Rasterizer that emulates typical hardware graphics pipeline. It contains the following graphics features but it is not exhaustive: backface culling, depth buffer, perspective correct interpolation, extendable vertex and fragment shaders and of course Rasterization ...  "
 tags = ["rendering", "graphics", "software-rendering", "c/c++"]
-image = "rasterizer_thumbnail.png"
+image = "rasterizer/rasterizer_thumbnail.png"
 +++
 
+<div style="position:relative;padding-top:56.25%;">
+<iframe width="100%"  frameborder="0" allowfullscreen
+    style="position:absolute;top:0;left:0;width:100%;height:100%;"
+src="https://www.youtube.com/embed/7sPPdtgjI90">
+</iframe>	
+</div>
+
+<br/>
 This is a simple realtime software renderer that emulates the typical graphics pipeline.
 Therefore it doesn't use the help of any Graphics API such as D3D11/12, OpenGL or Vulkan.
 The software is built mostly from 'scratch', written in standard C++98/C++11.
@@ -66,7 +74,8 @@ Render Samples
 
 <img src="/img/rasterizer/23.png" width="100%">	 
 
+<img src="/img/rasterizer/21.png" width="100%">	 
 
 
-https://www.youtube.com/watch?v=7sPPdtgjI90
+
 
