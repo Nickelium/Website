@@ -2,7 +2,7 @@
 title = "Rasterizer"
 date = 2019-07-12T12:32:46+02:00
 draft = false
-description = "A realtime software Rasterizer that emulates typical hardware graphics pipeline. It contains the following graphics features but it is not exhaustive: backface culling, depth buffer, perspective correct interpolation, extendable vertex and fragment shaders and of course Rasterization ...  "
+description = "A realtime software Rasterizer that emulates typical hardware graphics pipeline. It contains the following graphics features but it is not exhaustive: backface culling, depth buffer, perspective correct interpolation, extendable vertex and fragment shaders and of course Rasterization"
 tags = ["rendering", "graphics", "software-rendering", "c/c++"]
 image = "rasterizer/rasterizer_thumbnail.png"
 +++

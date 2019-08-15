@@ -6,6 +6,7 @@ description = "IRadiance Engine is a software Raytracer that can render a varier
 tags = ["rendering", "graphics", "raytracer", "software-rendering", "c/c++"]
 image = "raytracer/raytracer_thumbnail.jpg"
 +++
+
 IRadiance Engine is an open-source software raytraced renderer written in C++11.
 This project is still <b>in development</b>, more features are about to come!
 

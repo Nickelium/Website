@@ -6,10 +6,11 @@ description = "Radiance Engine is a graphics engine, build with intent to suppor
 tags = ["rendering", "graphics", "hardware-rendering", "c/c++", "graphics api", "opengl", "d3d11", "game engine"]
 image = "graphics_engine/graphicsengine_thumb.png"
 +++
+
 Radiance Engine is a graphics engine built currently on top of OpenGL but with the intent to eventually support more APIs.
 This project is still <b>in development</b>, more features are about to come!
 
-Initially this project was mostly intended as a practical exercise to reinforce the things I've learned on LearnOpenGL. 
+Initially this project was mostly intended as a practical exercise to reinforce the things I've learned on <a href="https://learnopengl.com/">LearnOpenGL</a>. 
 The goal has evolved into an API agnostic renderer with a clear software architecture. 
 Next up is providing a simple but nice API to the user. An API that allows the user to build their graphics application quickly, 
 while the engine handles all the other low-level necessities.
