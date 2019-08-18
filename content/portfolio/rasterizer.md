@@ -16,13 +16,13 @@ src="https://www.youtube.com/embed/7sPPdtgjI90">
 
 <br/>
 This is a simple realtime software renderer that emulates the typical graphics pipeline.
-Therefore it doesn't use the help of any Graphics API such as D3D11/12, OpenGL or Vulkan.
+Therefore, it doesn't use the help of any Graphics API such as D3D11/12, OpenGL or Vulkan.
 The software is built mostly from 'scratch', written in standard C++98/C++11.
-To be more precise, the renderer tries to mimick the OpenGL pipeline by providing it's implementation instead of relying on the GPU.
+To be more precise, the renderer tries to mimic the OpenGL pipeline by providing its implementation instead of relying on the GPU.
 
 The goal of this project is to learn and uncover what's behind the blackbox of a Graphics API that is often untold (to me at least) 
 and taken as it is. Also to learn how one might write a renderer back in the day. Although, raycasting or so was probably more appropriate than this renderer. 
-Initially, I planned to implement only a few trivial graphics features but it somehow grew more than expected.
+Initially, I planned to implement only a few trivial graphics features, but it somehow grew more than expected.
 <style>
 ul
 {
@@ -47,7 +47,7 @@ ul
 <li>Scene Switching</li>
 <li>Rendermode Switching</li>
 <li>OBJ file Parser</li>
-<li>JSON file Scene Sescription</li>
+<li>JSON file Scene Description</li>
 
 <li>Backface Culling</li>
 <li>Depth Buffering</li>

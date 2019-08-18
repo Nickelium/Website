@@ -2,7 +2,7 @@
 title =  "Radiance - Graphics Engine"
 date = 2019-08-05T21:16:07+02:00
 draft = false
-description = "Radiance Engine is a graphics engine, build with intent to support multiple graphics API. In it current state, it only supports OpenGL. This is only a work in progress of the project."
+description = "Radiance Engine is a graphics engine, build with intent to support multiple graphics API. In its current state, it only supports OpenGL. This is only a work in progress of the project."
 tags = ["rendering", "graphics", "hardware-rendering", "c/c++", "graphics api", "opengl", "d3d11", "game engine"]
 image = "graphics_engine/graphicsengine_thumb.png"
 +++

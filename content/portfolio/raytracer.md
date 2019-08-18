@@ -15,13 +15,13 @@ Previously I've written a raytracer based on the implementation of
 Paul Heckbert's business card raytracer. 
 What I did back then was writing the output to a simple image format, .PPM, which requires a specialized software to view the image.
 I used Photoshop for the above because I already had it available on my computer. 
-This is a simple approach but I found it very inconvenient to open Photoshop everytime, 
+This is a simple approach, but I found it very inconvenient to open Photoshop everytime, 
 especially with the long loading times on my computer. Alternatively, I could download some other lightweight software that supports PPM. 
 But I decided to utilize a graphics API, OpenGL in this case, to send the imagebuffer to the GPU for an immediate feedback.
 This approach enables us to get intermediate render results by sending the partial imagebuffer every 16ms.
-This might look like a small feature difference but seeing the the image being raytraced is really satisfying.
+This might look like a small feature difference but seeing the image being raytraced is really satisfying.
 
-Definetely worth the time and effort!
+Definitely worth the time and effort!
 
 
 <br/>

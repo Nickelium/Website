@@ -41,7 +41,7 @@ email = "trantr.be@gmail.com"
 
 ## Extras
 [params.extra]
-copyright = "© 2019. Tri Tran. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)." 
+copyright = "© 2019. Tri Tran. All Rights Reserved." 
 poweredby = true
 hightlightjs = true
 
