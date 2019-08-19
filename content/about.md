@@ -41,5 +41,5 @@ which I have been practicing over a decade already!
 Still haven't found me? Then you might want to check the gym. 
 Once in a while I boot up my console to play some fighting game, which I'm still terrible at it.
 
-If you're interested, you can find my resume [here].
+If you're interested, you can find my resume <a href="files/resume.pdf"><b>[here]<b/></a>.
 
