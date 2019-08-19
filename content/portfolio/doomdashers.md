@@ -2,7 +2,7 @@
 title =  "DoomDashers - Game"
 date = 2019-07-02T21:16:07+02:00
 draft = false
-description = "A fast-paced 2D platformer, where 2 players up to 4 dashing/charging each other to survive in an environment filled with traps and dangers. Made with Unity in a team of a total of 4 team members"
+description = "A fast-paced 2D platformer, where 2 players up to 4 dashing/charging each other to survive in an environment filled with traps and dangers. This was built with Unity in a team of a total of 4 members"
 tags = ["game", "unity", "2d", "c#", "gameplay"]
 image = "doomdashers/doomdashers_thumb.jpg"
 +++
