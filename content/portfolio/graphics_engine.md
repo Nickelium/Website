@@ -53,8 +53,10 @@ ul
 </ul>
 
 <div id="container">
+    <div class="item"><li>Mesh Loader</li></div>
     <div class="item"><li>Material System</li></div>
     <div class="item"><li>Support Custom Shaders</li></div>
+	<div class="item"><li>Support Shaders Hot Reloading</li></div>
 	<div class="dummy"></div>
 	<div class="dummy"></div>
 	<div class="dummy"></div>
