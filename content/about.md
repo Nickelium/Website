@@ -16,8 +16,26 @@ draft: false
 	float: left;
 	border: 3px solid #bdc2c9;
 }
+.line 
+{
+	display: block;
+	height: 1px;
+	border: 0;
+	border-top: 1px solid #ccc;
+	margin: 1em 0;
+	padding: 0;
+}
+
 </style>
+
+
+<!-- <div class="line"></div> -->
+If you're interested, you can find my resume <a href="files/resume.pdf"><b>[here]</b></a>.
+<div class="line"></div>
+
+
 <img class="image" src="/img/face.png">
+
 
 Hi! I'm <i>Tri Tran</i> an upcoming college graduate from <i>Howest, Belgium</i>, right now living in <i>Brussels, Belgium</i>. 
 Currently I'm looking for an <b>internship</b> for the period starting at February 2020 to June 2020.
@@ -41,5 +59,4 @@ which I have been practicing over a decade already!
 Still haven't found me? Then you might want to check the gym. 
 Once in a while I boot up my console to play some fighting game, which I'm still terrible at it.
 
-If you're interested, you can find my resume <a href="files/resume.pdf"><b>[here]<b/></a>.
 

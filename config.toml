@@ -22,8 +22,8 @@ enableRobotsTXT = true
 ## Site Settings
 [params]
 author = "Tri Tran"
-intro = "Game Programmer <br/> Graphics Programer | Engine Programmer"
-description = "Upcoming college graduate looking for an <b>Internship</b> starting at February 2020"
+intro = "Game Programmer <br/> Graphics Programmer | Engine Programmer"
+description = "Looking for an end-of-studies <b>Internship</b>"
 authorimage = "user.png"
 dateformat = "Jan 2, 2006"
 
@@ -52,12 +52,7 @@ hightlightjs = true
     weight = 100
     url = "about/"
 [[menu.main]]
-    name = "Portfolio"
-    identifier = "portfolio"
+    name = "Projects"
+    identifier = "projects"
     weight = 200
-    url = "portfolio/"
-[[menu.main]]
-    name = "Blog"
-    weight = 300
-    identifier = "blog"
-    url = "post/"
+    url = "projects/"

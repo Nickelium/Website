@@ -28,6 +28,8 @@ Definitely worth the time and effort!
 Features
 
 <li>Simple Raytracer</li>
+<li>Soft Shadows</li>
+<li>Area Light</li>
 <li>Visualize Render Progress</li>
 <li>Save Render to File</li>
 
@@ -37,5 +39,9 @@ Features
 If you're interested to know more, you can the find source code on this github <a href="https://github.com/Nickelium/IRadiance">[link]</a>.
 
 <br/>
-<img src="/img/raytracer/raytracer_thumbnail.jpg" width="100%">	 
+<img src="/img/raytracer/2.jpg" width="100%">	
+
+<img src="/img/raytracer/3.jpg" width="100%">	 
+
+<img src="/img/raytracer/4.jpg" width="100%">	
 
