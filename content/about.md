@@ -45,7 +45,7 @@ my interest shifted from general Computer Science to Game development. Instead o
 I decided to start to discover the world of Game development, more precisely Graphics Programming. 
 That's how I landed at the University College Howest, Belgium.
 
-During my studies I have deepened my knowledge in multiple fields such as abstract Mathematics, Engineering, Software development,
+Through the years, I have deepened my knowledge in multiple fields such as abstract Mathematics, Engineering, Software development,
  APIs/Framework, Game Engines. 
 Besides these technical fields, I have also worked on Digital Arts and Design.
 

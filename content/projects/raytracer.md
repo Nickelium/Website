@@ -27,11 +27,13 @@ Definitely worth the time and effort!
 <br/>
 Features
 
-<li>Simple Raytracer</li>
+<li>Whitted Raytracer</li>
+<li>Unidirectional Pathtracing</li>
 <li>Soft Shadows</li>
 <li>Area Light</li>
 <li>Visualize Render Progress</li>
 <li>Save Render to File</li>
+<li>MultiCore Rendering</li>
 
 <br/>
 
@@ -39,9 +41,11 @@ Features
 If you're interested to know more, you can the find source code on this github <a href="https://github.com/Nickelium/IRadiance">[link]</a>.
 
 <br/>
-<img src="/img/raytracer/2.jpg" width="100%">	
+<img src="/img/raytracer/1.jpg" width="100%">	
 
-<img src="/img/raytracer/3.jpg" width="100%">	 
+<img src="/img/raytracer/2.jpg" width="100%">	 
 
-<img src="/img/raytracer/4.jpg" width="100%">	
+<img src="/img/raytracer/3.jpg" width="100%">	
+
+<img src="/img/raytracer/4.jpg" width="100%">
 
